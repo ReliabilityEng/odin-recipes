@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+
+ul.menu-list {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.homepage-link {
+    color: darkred;
+    font-weight: bold;
+}
+
+.chicken-header {
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+}
