@@ -2,8 +2,25 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: peachpuff;
+}
+
+.main-page-div {
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 20px;
+}
+
+.title {
+    text-align: center;
+}
+
 ul.menu-list {
     font-size: 20px;
+    list-style-type: none;
+    width: 300px;
+    margin: 0px auto;
 }
 
 a {
